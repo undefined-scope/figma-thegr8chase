@@ -30,7 +30,13 @@ dist.zip
 # misc
 .DS_Store
 Thumbs.db
+.idea
 *.pem
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
 
 # debug
 npm-debug.log*
